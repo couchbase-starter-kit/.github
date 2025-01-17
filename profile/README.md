@@ -17,6 +17,9 @@ Welcome to the Couchbase starter kit organization. Here you will find several re
  - Ruby on Rails - https://github.com/couchbase-starter-kit/couchbase-rails-starter
  - Spring Boot - https://github.com/couchbase-starter-kit/couchbase-spring-starter
 
+### Community Projects
+
+ - To Do List Example (Java 21, Spring Boot, Couchbase, JUnit, Spring Security, JWT, AOP, Docker, Kubernetes, Prometheus, Grafana, Github Actions (CI/CD)) -  https://github.com/Rapter1990/todowithcouchbase
 
 ### Contribute ✨
 
